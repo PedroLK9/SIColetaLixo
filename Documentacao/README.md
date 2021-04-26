@@ -1,1 +1,1 @@
-Esse arquivo será usado para guardar documentos de desenho do projeto e de banco de dados, sobre o projeto de coleta de lixo
+Esse arquivo será usado para guardar documentos de desenhos e de banco de dados, sobre o projeto de coleta de lixo
